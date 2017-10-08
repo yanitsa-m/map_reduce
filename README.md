@@ -1,2 +1,2 @@
 # map_reduce
-MapReduce programming model &amp; exercise in Python
+MapReduce programming model &amp; exercises in Python
