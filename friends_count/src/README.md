@@ -6,4 +6,4 @@ python friends_count.py friends.json
 
 Expected output:
 
- ![src/friends_count.png](src/friends_count.png)
+ ![src/friendscount.png](src/friendscount.png)
